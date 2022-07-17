@@ -2,11 +2,11 @@
 
 class conexion{
     #atributos que son propios del objeto
-    private $servidor ="localhost";
-    private $usuario ="root";
-    private $pass = "";
+    private $servidor ="us-cdbr-east-06.cleardb.net";
+    private $usuario ="b1558c6ef0931c";
+    private $pass = "64f6be32";
     private $conexion_pdo;#objeto de tipo pdo, de la clase propia de php
-    private $base = "proyecto";
+    private $base = "heroku_312ba91e3f6cf95";
    
     public function __construct(){
         try{
