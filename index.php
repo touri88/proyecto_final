@@ -32,7 +32,7 @@
               <h1>Diego Touriñan - Full Stack Developer Jr</h1>
             </div>
             <div class="col-4 d-flex align-items-center justify-content-center">
-              <img src="img/profile.jpeg" class="img img-fluid w-auto h-75" alt="">
+              <img src="img/profile2.jpeg" class="img img-fluid w-auto h-75" alt="">
             </div>
           
           </div>
